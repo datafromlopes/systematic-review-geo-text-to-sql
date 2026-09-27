@@ -1,0 +1,2 @@
+xlrd>=2.0     # reads the Parsifal .xls export
+# pdftotext (poppler) must be installed on the system: brew install poppler / apt install poppler-utils
